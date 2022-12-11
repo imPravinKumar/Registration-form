@@ -1,3 +1,13 @@
+# Registration Form using ReactJS
+
+This website was created using ReactJS and hosted in Firebase
+you can view this website in following link 
+[https://yoga-registration-react.web.app]( https://yoga-registration-react.web.app) to view it in your browser
+This is made for Flexmoney jobs
+
+### Database
+Here i used Firebase which is google's database cloud storage, And also used firebase to host this website
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
